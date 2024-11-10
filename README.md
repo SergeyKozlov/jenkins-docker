@@ -4,7 +4,7 @@
 <img src="https://github.com/Joska99/jenkins-docker/blob/main/diagram.drawio.svg">
 </p>
 
-<h2>Requirements:</h2>
+<h2>Requirements:.</h2>
 
 1. Jenkins server
 - [My Jenkins Container guide](https://github.com/Joska99/joska/tree/main/docker/jenkins)
