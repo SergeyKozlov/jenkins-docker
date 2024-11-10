@@ -2,7 +2,7 @@ pipeline {
     agent any
     environment {
         IMG_NAME = 'my-nx'
-        DOCKER_REPO = 'joska99/labs-images'
+        DOCKER_REPO = 'sergeykozlov/labs-images'
     }
     stages {
         stage('build') {
